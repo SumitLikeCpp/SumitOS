@@ -158,7 +158,7 @@ sudo apt-get install -y nodejs
 
 ## License
 
-ISC License - See LICENSE file for details.
+Apache License 2.0  - See LICENSE file for details.
 
 ## Contributing
 
